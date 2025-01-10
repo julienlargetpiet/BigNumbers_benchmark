@@ -108,7 +108,7 @@ std::string addint1(std::string x, std::string x2) {
     cur_rslt = ref_add[cnt];
     cur_rslt3 = cur_rslt;
     cur_str = "";
-    while(10 < cur_rslt3) {
+    while(10 <= cur_rslt3) {
       cur_rslt2 = cur_rslt3 % 10;
       cur_str.insert(0, 1, char(cur_rslt2 + 48));
       cur_rslt3 -= cur_rslt2;
