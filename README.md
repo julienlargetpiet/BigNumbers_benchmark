@@ -1,6 +1,6 @@
 # BigNumbers_benchmark
 
-This repos benchmarks the execution time for different operations with different algorithms for calculating big numbers.
+This repo benchmarks the execution time for different operations with different algorithms for calculating big numbers.
 
 This document references cherubin library which is located here:
 
