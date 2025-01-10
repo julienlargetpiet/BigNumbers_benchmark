@@ -2,6 +2,8 @@
 
 This repo benchmarks the execution time for different operations with different algorithms for calculating big numbers.
 
+Submit your own algorithm !
+
 This document references cherubin library which is located here:
 
 https://github.com/julienlargetpiet/Cherubin/
