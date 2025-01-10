@@ -1,7 +1,6 @@
-#include <iostream>
-#include <vector>
+#include "base.h"
 
-std::string addteste(std::string x, std::string x2) {
+std::string addint1(std::string x, std::string x2) {
   bool is_grt = is_greater(x, x2);
   unsigned int n = x.length();
   unsigned int n2 = x2.length();
