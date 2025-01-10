@@ -21,7 +21,7 @@ For 100000 iterations:
 
 - cherubin::addint is **8 ms** (uses only string and calculates unit by unit)
 
-- addint1 is **45ms** (uses std::vector<unsigned int> and calculates 1000000000 by 1000000000)
+- addint1 is **45ms** (uses std::vector&lt;unsigned int&gt; and calculates 1000000000 by 1000000000)
 
 
 
